@@ -10,7 +10,7 @@
 
 #
 
-![](https://i.ibb.co/wrz7L4v/ezgif-com-video-to-gif.gif)
+![](https://i.ibb.co/1LfvCLC/Capturar.png)
 
 #
 
