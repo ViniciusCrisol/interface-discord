@@ -1,7 +1,16 @@
 import React from 'react';
 
+import Layout from './components/Layout';
+import GlobalStyles from './styles/globalStyles';
+
 function App() {
-  return <h1>discord</h1>;
+  return (
+    <>
+      <Layout />
+
+      <GlobalStyles />
+    </>
+  );
 }
 
 export default App;
