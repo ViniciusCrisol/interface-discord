@@ -1,9 +1,5 @@
 # 📌Interface Discord
 
-### 💻 Tecnologias
-
-#### Front
-
 - ReactJs
 - Styled Components
 
